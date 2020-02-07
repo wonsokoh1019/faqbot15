@@ -6,15 +6,15 @@ import os
 DEFAULT_LANG = 'ja'
 
 # account
-ADMIN_ACCOUNT = "admin@moegi.works-demo.tokyo"
-DOMAIN_ID = 10029600
+ADMIN_ACCOUNT = "mintwinsr@works-2671"
+DOMAIN_ID = 10095305
 
 # api
-API_ID = "jp1dgKrKdJrXs"
-SERVER_CONSUMER_KEY = "zQ7JDUDmSSH2TbA3wJ24"
+API_ID = "jp1gWTxYMfJqm"
+SERVER_CONSUMER_KEY = "uuEwLGWuvvoe86ZFya4B"
 
-SERVER_ID = "5277cefab5f441c7b9a5971cb936bb4f"
-SECRET_KEY_NAME = "private_20200207190956.key"
+SERVER_ID = "f38e92b7a7cc4e2a80792f48dbada3e3"
+SECRET_KEY_NAME = "private_20200207192504.key"
 
 # LOCAL ADDRESS
 LOCAL_ADDRESS = "https://faqbot15.herokuapp.com/"
